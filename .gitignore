@@ -1,1 +1,13 @@
+.gradle
+.idea
 /build
+
+app/build
+
+**/.idea/**
+/local.properties
+.DS_Store
+/build
+/captures
+temp
+app/*.apk
