@@ -108,4 +108,4 @@ The footer is optional and is used to reference issue tracker IDs.
 
 ## License
 
-This project is currently licensed under the Apache License Version 2.0. A copy of [LICENSE.md](https://github.com/idealadarsh/mensuration/blob/master/LICENSE) should be present along with the source code.
+This project is currently licensed under the MIT License. A copy of [LICENSE](https://github.com/idealadarsh/mensuration/blob/master/LICENSE) should be present along with the source code.
